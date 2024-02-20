@@ -40,8 +40,10 @@ h1 {
 p {
     font-size: 18px;
     color: #E1E1E6;
+    line-height: 160%;
 
     max-width: 650px;
+    margin-top: 16px;
 }
 
 .home {
@@ -76,4 +78,8 @@ p {
     cursor: pointer;
 
     transition: .3s;
+}
+
+.content{
+    margin: 63px 0 0 102px;
 }
